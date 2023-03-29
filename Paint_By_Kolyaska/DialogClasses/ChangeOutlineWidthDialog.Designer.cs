@@ -1,6 +1,6 @@
 ﻿namespace Paint_By_Kolyaska
 {
-    partial class Width
+    partial class ChangeOutlineWidthDialog
     {
         /// <summary>
         /// Required designer variable.

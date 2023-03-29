@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Paint_By_Kolyaska
 {
-    public partial class Width : Form
+    public partial class ChangeOutlineWidthDialog : Form
     {
-        public Width()
+        public ChangeOutlineWidthDialog()
         {
             InitializeComponent();
         }

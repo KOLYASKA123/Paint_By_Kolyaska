@@ -24,7 +24,7 @@ namespace Paint_By_Kolyaska
 
         private void changeWidth()
         {
-            Width dialogWidth = new Width();
+            ChangeOutlineWidthDialog dialogWidth = new ChangeOutlineWidthDialog();
             dialogWidth.comboBox1.Text = optionOutlineWidth.ToString();
             DialogResult result = dialogWidth.ShowDialog(this);
 
